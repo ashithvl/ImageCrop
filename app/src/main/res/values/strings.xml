@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Crop</string>
+    <string name="open_chooser">Open Chooser</string>
+</resources>
